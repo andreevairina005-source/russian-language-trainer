@@ -1,0 +1,7 @@
+# Скопируйте этот файл в .env только для локальной разработки.
+# Реальные значения не добавляйте в GitHub.
+DATABASE_URL=mysql://user:password@localhost:3306/russian_language_trainer
+JWT_SECRET=replace-with-a-long-random-value
+VITE_APP_ID=replace-with-app-id
+OAUTH_SERVER_URL=https://api.manus.im
+VITE_OAUTH_PORTAL_URL=https://app.manus.im
